@@ -1,2 +1,1 @@
-# odin-recipes
-Currently Craving Orange Chicken 
+Panda Express Orange Chicken 
